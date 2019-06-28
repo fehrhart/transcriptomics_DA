@@ -1,0 +1,3 @@
+CEL file name	sample name	group 
+Bla.CEL	1	group1
+BLa1.CEL	2	group2
