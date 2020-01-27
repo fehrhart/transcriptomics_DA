@@ -1,3 +1,4 @@
+#R script for GSE21307, made for Rik Lahaijes bachelor thesis 2020
 setwd("C:/Users/rik-l/OneDrive/Documenten/GSE21307")
 
 #Load all gene expression data per sample
